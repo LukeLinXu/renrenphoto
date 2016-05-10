@@ -1,4 +1,7 @@
-renrenphoto
+# renrenphoto
+
+This project will help people to download all photos if the account id is known.
+
 User Guide:
-1 python2
-2 install Scrapy
+- python2
+- install Scrapy
